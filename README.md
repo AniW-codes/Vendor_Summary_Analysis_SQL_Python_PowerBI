@@ -13,7 +13,6 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-- <a href="#dashboard">Dashboard</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
 
@@ -80,16 +79,6 @@ Effective inventory and sales management are critical in the retail sector. This
 2. **Top Vendors**: Top 10 vendors = 65.69% of purchases → risk of over-reliance
 3. **Bulk Purchasing Impact**: 72% cost savings per unit in large orders
 4. **Inventory Turnover**: $2.71M worth of unsold inventory
----
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
-
-- Power BI Dashboard shows:
-  - Vendor-wise Sales and Margins
-  - Inventory Turnover
-  - Bulk Purchase Savings
-  - Performance Heatmaps
-
-![Vendor Performance Dashboard](images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>

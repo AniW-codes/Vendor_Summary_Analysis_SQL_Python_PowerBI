@@ -94,5 +94,5 @@ Effective inventory and sales management are critical in the retail sector. This
 
 **Aniruddha Warang**  
 Data Analyst  
-📧 Email: warang@gmail.com  
+📧 Email: waranganya@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aniruddhawarang/)
